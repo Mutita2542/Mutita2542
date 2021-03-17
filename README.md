@@ -1,7 +1,7 @@
 ### HELLO EVERYONE! 👋
 * My name is Mutita Jittawin.
 * My nick name is Pure.
-* I'm 22 years old.
+* I'm 21 years old.
 * I'm studying at Mahasarakham University in major Business Computer.
  
 ## Contact
